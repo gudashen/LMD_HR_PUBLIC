@@ -123,7 +123,7 @@ LMD_cohort <- LMD_cohort  %>%
          HER2 = factor(1 - HER2, labels = c('Positive', 'Negative')))
 
 
-HD_corhort <- read_csv('/Users/bgu/Library/CloudStorage/Box-Box/LMD-HR-breast cancer Sophia/Data/(070323) HD Full Table.csv') %>%
+HD_corhort <- read_csv(here("data", '(070323) HD Full Table.csv')) %>%
   fill(`Starr ID`, .direction = 'down') %>%
   mutate(`HR Date` = as.Date(Date),
          ER = factor(1 - as.numeric(ER), labels = c('Positive', 'Negative')),
