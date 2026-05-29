@@ -75,9 +75,10 @@ library(tidyr)
 library(olsrr)
 library(mice)
 library(miceadds)
+library(here)
 
 
-LMD_cohort <- read_csv('/Users/bgu/Library/CloudStorage/Box-Box/LMD-HR-breast cancer Sophia/Data/(Updated 062623) Full Data Sheet.csv') %>% 
+LMD_cohort <- read_csv(here("data", "(Updated 062623) Full Data Sheet.csv")) %>% 
   as.data.frame()
 
 
