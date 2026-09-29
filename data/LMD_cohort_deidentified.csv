@@ -1,0 +1,142 @@
+Study ID,Race,Ethnicity,Age at Diagnosis,Censor Status,Death Status Note,Days Dx to Death,Days Dx to Last Contact,Days Dx to HR Assessment,ER,PR,HER2,Subtype,Stage,Grade,1st Met Site,Days Dx to 1st Met,Days Dx to Brain Met,Days Dx to LMD
+P001,White,Non-Hispanic,48,1,,3393,,0,1,1,0,lumA,2,2,Spine,2736,2741,2741
+P045,Other,Non-Hispanic,57,1,,1318,,0,1,1,0,lumA,4,3,Bone,-9,1222,1222
+P060,White,Non-Hispanic,30,0,Alive,,3241,0,1,1,1,lumB,4,3,Liver,11,1518,1524
+P074,Asian,Non-Hispanic,50,1,,504,,0,0,0,0,TN,3,3,Liver,42,437,437
+P087,White,Non-Hispanic,33,0,Alive,,1483,0,1,0,0,lumA,3,2,Brain + LMD,532,532,532
+P099,White,Non-Hispanic,28,1,,3211,,0,1,0,0,lumA,4,2,Bone,1840,2711,3158
+P108,Black,Non-Hispanic,70,1,,156,,0,0,0,1,HER2,4,3,Brain + LMD,70,70,70
+P120,White,Non-Hispanic,58,1,,2738,,0,1,1,0,lumA,2,3,Brain,2205,2205,2359
+P132,Black,Non-Hispanic,34,1,,797,,0,0,0,1,HER2,NF,NF,Mediastinum,607,715,715
+P022,White,Non-Hispanic,73,0,Deceased,,2513,0,0,0,0,TN,2,3,Brain,1725,1725,2240
+P032,Asian,Non-Hispanic,60,1,,1832,,0,1,0,1,lumB,4,3,Liver,26,1021,1021
+P036,Asian,Non-Hispanic,42,1,,1863,,0,1,1,0,lumA,3,2,Lung,861,1828,1828
+P038,Asian,Non-Hispanic,70,1,,2386,,0,0,NF,1,NF,3,2,Brain + LMD,2359,2359,2359
+P039,White,Non-Hispanic,54,1,,1232,,0,1,1,0,lumA,3,1,Skin,115,1155,1155
+P041,White,Non-Hispanic,33,0,Unconfirmed (presumed deceased),,2593,0,1,1,1,lumB,4,NF,Brain,1548,1548,2589
+P043,White,Non-Hispanic,45,1,,6144,,0,1,1,0,lumA,2,3,Bone,5006,,5995
+P046,White,Non-Hispanic,55,1,,898,,0,0,0,0,TN,2,3,Bone,824,831,831
+P047,White,Non-Hispanic,71,1,,638,,0,1,1,0,lumA,4,2,Bone,87,493,633
+P050,Other,Hispanic/Latino,58,0,Unconfirmed (presumed deceased),,1132,0,0,0,0,TN,2,2,Brain,365,365,1014
+P052,Other,Hispanic/Latino,51,0,Alive,,2877,0,0,0,0,TN,4,3,Brain,362,362,580
+P053,White,Non-Hispanic,36,1,,417,,0,0,0,0,TN,NF,NF,Brain,328,328,406
+P054,White,Non-Hispanic,41,0,Unconfirmed (presumed deceased),,9900,0,1,1,NF,NF,NF,3,Brain,9891,9891,9895
+P055,Other,Non-Hispanic,54,0,Unconfirmed (presumed deceased),,396,0,1,0,0,lumA,4,2,Brain,4,4,287
+P057,Asian,Non-Hispanic,66,1,,915,,0,1,1,0,lumA,4,2,Bone,0,15,810
+P058,Other,Hispanic/Latino,49,1,,441,,0,0,0,1,HER2,4,3,Liver,21,341,377
+P061,White,Non-Hispanic,35,1,,927,,0,1,1,0,lumA,3,3,Bone/Liver,743,743,741
+P062,White,Non-Hispanic,55,1,,605,,0,0,0,0,TN,2,3,Bone,430,,481
+P063,White,Non-Hispanic,58,1,,2901,,0,1,1,1,lumB,2,2,Brain,1239,1239,1344
+P065,White,Non-Hispanic,58,1,,259,,0,0,0,1,HER2,4,3,Brain + LMD,248,248,248
+P067,White,Non-Hispanic,39,0,Alive,,4332,0,1,1,0,lumA,2,2,Brain,1754,1754,1956
+P069,White,Non-Hispanic,53,1,,4276,,0,1,NF,0,lumA,1,NF,Lung,4054,4054,4265
+P070,Asian,Non-Hispanic,55,1,,1902,,0,0,0,1,HER2,NF,3,Brain,1335,1335,1455
+P072,White,Non-Hispanic,66,1,,1713,,0,0,0,0,TN,1,2,Lung,1068,1560,1595
+P075,White,Non-Hispanic,50,0,Deceased,,1682,0,1,1,0,lumA,3,1,Bone,41,1393,1619
+P077,Asian,Non-Hispanic,34,1,,1521,,0,0,0,0,TN,4,3,Lung,1245,1504,1504
+P078,White,Non-Hispanic,23,1,,1863,,0,1,0,0,lumA,3,2,Brain,1412,1412,1468
+P079,Other,Hispanic/Latino,38,0,Alive,,2807,0,1,1,1,lumB,2,2,Brain,430,430,1159
+P081,Asian,Non-Hispanic,34,1,,1378,,0,0,0,1,HER2,NF,NF,Brain,908,908,1339
+P083,Asian,Non-Hispanic,33,1,,1178,,0,0,0,NF,NF,3,3,Lung,888,1049,1057
+P084,White,Non-Hispanic,64,1,,1895,,0,0,0,0,TN,3,2,Bone,572,1714,1839
+P085,Other,Hispanic/Latino,36,1,,1958,,0,0,0,0,TN,2,3,Brain,810,810,1938
+P086,White,Non-Hispanic,56,1,,2979,,0,1,1,0,lumA,NF,NF,Brain,2617,2617,2841
+P088,White,Non-Hispanic,64,1,,669,,0,0,0,0,TN,NF,NF,Brain,334,334,550
+P089,Black,Non-Hispanic,45,1,,10447,,0,NF,NF,NF,NF,4,NF,Lung,8856,9100,10425
+P090,White,Non-Hispanic,49,1,,1233,,0,1,0,0,lumA,4,NF,Lung,1174,1176,1211
+P092,White,Non-Hispanic,49,1,,7515,,0,1,1,0,lumA,1,2,Bone,7027,7508,7508
+P093,White,Non-Hispanic,63,1,,2194,,0,0,0,0,TN,4,3,Lung,3,2030,2169
+P094,White,Non-Hispanic,48,1,,3252,,0,1,1,0,lumA,NF,2,Brain,2983,2983,3211
+P095,White,Non-Hispanic,35,1,,1459,,,NF,NF,1,NF,4,NF,Brain + LMD,1203,1203,1203
+P096,White,Non-Hispanic,67,1,,1180,,0,1,1,0,lumA,NF,3,Bone,69,,1174
+P097,White,Non-Hispanic,72,0,Unconfirmed,,1126,0,1,1,1,lumB,3,2,Brain,537,537,1100
+P098,White,Non-Hispanic,55,1,,972,,0,1,1,0,lumA,NF,2,Bone,57,722,778
+P100,Other,Non-Hispanic,40,1,,1534,,0,1,1,1,lumB,NF,3,Brain,523,523,1132
+P101,Other,Hispanic/Latino,42,1,,1062,,0,0,0,0,TN,2,3,Lung,518,966,966
+P102,White,Non-Hispanic,63,1,,822,,0,1,0,1,lumB,2,NF,Brain + LMD,520,520,520
+P103,Asian,Non-Hispanic,37,1,,5803,,0,1,1,1,lumB,1,2,Brain,3627,3627,4212
+P104,White,Non-Hispanic,48,1,,1422,,0,1,0,0,lumA,4,2,Bone,68,,1051
+P105,White,Non-Hispanic,58,1,,413,,0,1,1,0,lumA,4,2,Brain,37,37,370
+P106,Black,Non-Hispanic,49,1,,3287,,0,0,0,1,HER2,1,3,Bone,2710,3079,3254
+P107,Other,Non-Hispanic,53,1,,2137,,0,1,0,0,lumA,1,NF,Bone,1847,1978,1847
+P109,Other,Hispanic/Latino,48,0,Unconfirmed (presumed deceased),,1945,0,1,1,0,lumA,3,2,Brain,1186,1186,1830
+P110,Other,Hispanic/Latino,55,1,,4132,,0,1,0,0,lumA,NF,1,LMD,4098,,4098
+P111,White,Non-Hispanic,64,1,,4011,,0,1,1,0,lumA,3,2,Paravaginal,2921,3874,3874
+P112,Asian,Non-Hispanic,40,1,,4208,,0,1,1,0,lumA,2,2,Bone,3137,,4148
+P113,White,Non-Hispanic,38,1,,8534,,0,1,1,1,lumB,2,3,Lung,7153,8089,8342
+P114,White,Non-Hispanic,67,1,,2725,,0,1,1,0,lumA,4,2,Bone,1359,2474,2474
+P115,White,Non-Hispanic,54,1,,698,,0,1,1,0,lumA,2,3,Liver,413,680,680
+P116,White,Non-Hispanic,29,1,,881,,0,0,0,0,TN,3,3,Brain + LMD,658,658,658
+P117,Other,Hispanic/Latino,48,1,,2588,,0,1,1,0,lumA,4,NF,Bone,13,2315,2315
+P118,White,Non-Hispanic,62,1,,3587,,0,1,1,0,lumA,3,2,Bone,1194,3496,3496
+P121,White,Non-Hispanic,36,1,,1737,,0,1,1,1,lumB,NF,3,Bone,1071,1430,1661
+P122,Other,Hispanic/Latino,51,1,,2584,,0,1,1,0,lumA,4,2,Bone,29,2384,2493
+P123,White,Non-Hispanic,53,1,,2238,,0,1,1,0,lumA,1,2,Mediastinum,2194,2227,2227
+P124,Asian,Non-Hispanic,57,1,,1852,,0,0,0,0,TN,3,2,Lung,1489,1731,1807
+P125,Asian,Non-Hispanic,38,1,,3323,,0,1,1,0,lumA,4,2,Bone,0,3052,3072
+P126,White,Non-Hispanic,57,1,,1464,,0,1,0,0,lumA,3,3,Brain + LMD,1432,1432,1432
+P127,White,Non-Hispanic,49,1,,1276,,0,1,1,1,lumB,1,3,Brain,702,702,1228
+P128,White,Non-Hispanic,48,1,,669,,0,0,0,0,TN,4,3,Brain,0,0,597
+P129,Other,Non-Hispanic,36,1,,4373,,0,1,NF,0,lumA,NF,NF,Lung,2769,4199,4230
+P130,Other,Non-Hispanic,48,1,,5144,,0,1,1,0,lumA,3,NF,Bone,4649,5026,5043
+P133,White,Non-Hispanic,69,1,,673,,0,0,0,0,TN,NF,3,Abdomen,611,609,651
+P134,White,Non-Hispanic,38,1,,1165,,0,1,1,0,lumA,4,2,Bone,-24,992,992
+P135,Other,Unknown,59,0,Unconfirmed,,620,0,NF,NF,0,NF,3,3,Brain,459,459,476
+P136,White,Non-Hispanic,45,1,,1069,,0,0,0,0,TN,2,3,LMD,766,,766
+P137,White,Non-Hispanic,44,1,,2516,,0,0,0,1,HER2,2,1,Brain,1123,1123,1398
+P138,Asian,Non-Hispanic,52,1,,1606,,0,0,0,1,HER2,4,3,Bone,18,1528,1528
+P139,Asian,Non-Hispanic,45,1,,1956,,0,1,0,0,lumA,4,NF,Bone,-12,1514,1785
+P140,White,Non-Hispanic,48,1,,3276,,0,0,0,1,HER2,3,3,Liver,1920,3086,3208
+P141,White,Non-Hispanic,49,1,,1624,,0,1,1,0,lumA,3,1,Lung/Liver/Bone,1422,1456,1568
+P002,Asian,Non-Hispanic,40,1,,5196,,0,1,1,0,lumA,3,NF,Bone,2041,4742,4742
+P003,White,Non-Hispanic,40,0,Unconfirmed,,3953,0,1,1,1,lumB,2,2,Liver,3582,,3934
+P004,Other,Non-Hispanic,65,1,,577,,0,1,1,1,lumB,4,NF,LMD,-10,,-10
+P005,White,Non-Hispanic,64,1,,455,,0,0,0,1,HER2,NF,NF,Left Axilla/Right Inguinal Area/Bones/Liver,-18,440,440
+P006,Asian,Non-Hispanic,56,1,,1630,,0,0,0,0,TN,NF,2,Bone,753,1274,1274
+P007,Other,Non-Hispanic,38,1,,1195,,0,0,0,0,TN,NF,NF,Chest Wall,611,,1008
+P008,White,Non-Hispanic,53,0,Unconfirmed (presumed deceased),,256,0,0,0,0,TN,NF,NF,LMD,256,,256
+P009,Asian,Non-Hispanic,46,0,Unconfirmed,,3925,0,1,1,0,lumA,3,2,Spine,2245,3894,3894
+P010,White,Non-Hispanic,62,1,,1681,,,NF,NF,NF,NF,NF,NF,Brain + LMD,1640,1640,1640
+P011,Asian,Non-Hispanic,23,1,,5229,,0,1,1,1,lumB,1,3,Bone,3269,,4814
+P012,Black,Non-Hispanic,41,0,Unconfirmed,,29,0,1,1,0,lumA,4,2,Bone,6,,0
+P013,White,Non-Hispanic,48,0,Unconfirmed,,2701,0,0,0,0,TN,3,3,LMD,2398,,2398
+P014,White,Non-Hispanic,52,1,,311,,0,0,0,0,TN,4,3,Bone,24,218,218
+P015,White,Non-Hispanic,48,1,,1414,,0,0,0,1,HER2,NF,3,Brain + LMD,812,812,813
+P016,Asian,Non-Hispanic,39,1,,2006,,0,1,1,0,lumA,2,2,Brain,720,720,1820
+P017,White,Non-Hispanic,31,1,,2618,,0,1,1,0,lumA,2,2,Bone,1430,2313,2305
+P018,White,Non-Hispanic,45,1,,976,,0,0,0,0,TN,2,3,Brain,720,720,935
+P019,White,Non-Hispanic,43,1,,1213,,0,0,0,1,HER2,3,2,Brain,667,667,896
+P020,White,Non-Hispanic,53,1,,1124,,0,0,0,1,HER2,3,3,Brain,556,556,833
+P023,White,Non-Hispanic,46,1,,3708,,0,1,1,0,lumA,1,3,Bone,2554,3397,3397
+P024,Asian,Non-Hispanic,63,1,,1359,,0,1,0,0,lumA,2,2,Bone,520,1239,1239
+P025,Asian,Non-Hispanic,50,0,Unconfirmed (presumed deceased),,5022,0,1,1,0,lumA,2,2,Brain + LMD,1340,1340,1340
+P026,Black,Non-Hispanic,48,0,Unconfirmed,,3000,0,1,1,NF,NF,4,NF,Adrenal Gland,974,1795,2016
+P027,White,Non-Hispanic,60,1,,867,,0,0,0,0,TN,4,3,Brain,389,389,717
+P028,White,Non-Hispanic,40,1,,1732,,0,0,0,0,TN,NF,2,Brain,254,254,1707
+P029,White,Non-Hispanic,61,1,,1692,,0,1,1,0,lumA,NF,2,Bone,667,,1367
+P030,Other,Hispanic/Latino,48,1,,271,,0,0,0,1,HER2,4,3,Liver,57,,268
+P033,White,Non-Hispanic,31,1,,1124,,0,1,1,0,lumA,2,3,Bone,435,870,926
+P034,Other,Non-Hispanic,38,1,,1096,,0,0,0,1,HER2,3,3,Brain,719,719,1062
+P035,Asian,Non-Hispanic,38,1,,1115,,0,0,0,0,TN,2,NF,Bone,1006,1042,1025
+P021,Asian,Non-Hispanic,38,1,,1956,,0,1,1,0,lumA,3,2,Brain,1938,1938,1953
+P031,White,Non-Hispanic,33,1,,1845,,0,1,1,0,lumA,1,3,Bone,1455,1479,1479
+P037,White,Non-Hispanic,52,0,deceased,,2731,0,1,1,0,lumA,2,2,Bone,1161,1944,1944
+P040,White,Non-Hispanic,59,1,,2019,,0,1,1,0,lumA,2,3,Multiple,1000,1004,1015
+P042,White,Non-Hispanic,40,0,alive,,1580,0,0,0,1,HER2,2,3,Brain,440,440,1517
+P044,Black,Non-Hispanic,43,1,,3239,,0,0,0,0,TN,2,3,Bone,1507,2959,2959
+P048,White,Non-Hispanic,41,0,alive,,4039,0,1,1,0,lumA,2,3,Brain,1999,1999,2027
+P049,Other,Non-Hispanic,41,1,,2268,,0,1,1,1,lumB,2,2,LN,853,2048,2084
+P051,Asian,Non-Hispanic,38,1,,3333,,0,1,1,0,lumA,4,1,Bone,0,3052,3072
+P056,White,Non-Hispanic,51,1,,2191,,0,1,0,0,lumA,3,2,Bone,1522,,2038
+P059,Asian,Non-Hispanic,55,1,,1437,,0,0,0,0,TN,2,3,Brain + LMD,805,805,805
+P064,White,Non-Hispanic,54,1,,1666,,0,1,1,1,lumB,NF,3,Bone,329,1182,1396
+P066,Asian,Non-Hispanic,43,1,,2661,,0,1,1,0,lumA,0,2,Pleural,1092,2586,2586
+P068,White,Non-Hispanic,67,0,deceased,,3641,0,0,1,1,lumB,4,2,Bone,21,3436,3436
+P071,Other,Non-Hispanic,56,1,,3262,,0,0,0,1,HER2,2,3,Liver,3044,3143,3162
+P073,Other,Hispanic/Latino,47,1,,479,,0,0,0,0,TN,3,3,Brain + LMD,337,337,337
+P076,White,Non-Hispanic,44,0,alive,,2554,0,1,1,1,lumB,2,2,Liver/Bone,1495,1496,1496
+P080,Asian,Non-Hispanic,52,1,,4100,,0,1,0,0,lumA,3,2,Lung,592,4045,4045
+P082,White,Non-Hispanic,64,0,alive,,4882,0,1,NF,NF,NF,NF,3,Bone,2456,4191,4191
+P091,White,Non-Hispanic,58,1,,2873,,0,1,1,1,lumB,2,,Brain,1211,1211,1316
+P119,Asian,Non-Hispanic,44,1,,2678,,0,1,0,0,lumA,2,2,Lung,2106,2120,2506
+P131,Black,Non-Hispanic,39,1,,1807,,0,1,1,0,lumA,3,3-Feb,Spine,38,1483,1483
